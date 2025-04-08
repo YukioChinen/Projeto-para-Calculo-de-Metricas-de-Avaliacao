@@ -2,7 +2,7 @@
 
 #Desafio-DIO
 
-Repositório co o código realizado do projeto DIO do curso BairesDev - Machine Learning Practitioner (Redução de Dimensionalidade em Imagens para Redes Neurais).
+Repositório com o código realizado do projeto DIO do curso BairesDev - Machine Learning Practitioner (Redução de Dimensionalidade em Imagens para Redes Neurais).
 
 O projeto consiste em calcular as principais métricas para avaliação de modelos de classificação de dados, como acurácia, sensibilidade (recall), especificidade, precisão e F-score.
 
